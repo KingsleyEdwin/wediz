@@ -433,7 +433,7 @@ nav a{
 }
 
 
-@media (min-width: 600px){
+/* @media (min-width: 600px){
     nav{
         font-size: 15px;
     }
@@ -446,11 +446,11 @@ nav a{
 
     .heroSection img{
         width: 500px;
-    }
+    } */
 
 
 
-@media (max-height: 600px){
+@media (min-height: 600px){
     
 
     nav{
