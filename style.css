@@ -450,7 +450,7 @@ nav a{
 
 
 
-@media (min-width: 600px){
+@media (min-width: 300px){
     
 
     nav{
@@ -470,6 +470,7 @@ nav a{
 
     .aboutCards{
         width:250px;
+        flex-wrap: wrap;
         font-size: 12px;
     }
 
