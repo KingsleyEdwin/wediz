@@ -450,7 +450,7 @@ nav a{
 
 
 
-@media (min-height: 600px){
+@media (max-height: 600px){
     
 
     nav{
